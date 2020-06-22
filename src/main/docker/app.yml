@@ -1,0 +1,6 @@
+version: '2'
+services:
+  nhipstersamplegraphql-app:
+    build: ../../..
+    container_name: nhipstersamplegraphql-app
+    environment:
